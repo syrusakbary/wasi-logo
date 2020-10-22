@@ -10,4 +10,4 @@
 The presented work is entirely Creative Commons licensed. Meaning that anyone could use it, as it is my will to distribute it free of charges.
 
 * [Full license](./LICENSE)
-* [Original logo issue comment](https://github.com/WebAssembly/design/issues/112#issuecomment-258674675)
+* [Original logo issue comment](https://github.com/WebAssembly/WASI/issues/3#issuecomment-714740192)
